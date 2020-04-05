@@ -1,0 +1,194 @@
+<!DOCTYPE html>
+<html lang="en">
+   <head>
+      <!-- basic -->
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <!-- mobile metas -->
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <meta name="viewport" content="initial-scale=1, maximum-scale=1">
+      <!-- site metas -->
+      <title>湖南海獭网络科技有限公司</title>
+      <meta name="keywords" content="">
+      <meta name="description" content="">
+      <meta name="author" content="">
+      <!-- site icons -->
+      <link rel="icon" href="images/fevicon/fevicon.png" type="image/png" />
+      <!-- bootstrap css -->
+      <link rel="stylesheet" href="css/bootstrap.min.css" />
+
+      <!-- site css -->
+      <link rel="stylesheet" href="css/style.css" />
+      <!-- responsive css -->
+      <link rel="stylesheet" href="css/responsive.css" />
+      <!-- colors css -->
+      <link rel="stylesheet" href="css/colors.css" />
+      <!-- wow animation css -->
+      <link rel="stylesheet" href="css/animate.css" />
+      
+      <!-- font -->
+      <link rel="stylesheet" href="font-awesome-4.7.0/css/font-awesome.min.css" />
+      <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+      <![endif]-->
+   </head>
+   <body id="default_theme" class="home_page1">
+      <!-- header -->
+      <header class="header header_style1">
+         <div class="container">
+            <div class="row">
+               <div class="col-md-9 col-lg-10">
+                  <div class="logo"><a href="index.html"><img src="images/haita/logo.png" alt="#" /></a></div>
+                  <div class="main_menu float-right">
+                     <div class="menu">
+                        <ul class="clearfix">
+                           <li class="active"><a href="index.html">首页</a></li>
+                           <li><a href="#">产品服务</a></li>
+                           <li><a href="#">功能展示</a></li>
+                           <li><a href="#">案例</a></li>
+                           <li><a href="#">渠道共赢</a></li>
+                           <li><a href="#">关于我们</a></li>
+                           <li><a href="#">联系我们</a></li>
+                        </ul>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-md-3 col-lg-2">
+                  <div class="right_bt"><a class="bt_main webchat" href="#">Get Support</a> </div>
+               </div>
+            </div>
+         </div>
+      </header>
+      
+        <div class="row">
+            	 <div class="full">
+                     <img src="images/haita/首页2_03.jpg" alt="#" width="100%"/>
+                  </div>
+            	
+      	</div>
+      	<div class="row">
+            	 <div class="full">
+                     <img src="images/haita/首页2_04.jpg" alt="#" width="100%"/>
+                  </div>
+            	
+      	</div>
+      		<div class="row">
+            	 <div class="full">
+                     <img src="images/haita/首页2_06.jpg" alt="#" width="100%"/>
+                  </div>
+            	
+      	</div>
+      	
+      	<div class="row">
+            	 <div class="full">
+                     <img src="images/haita/首页2_05.jpg" alt="#" width="100%"/>
+                  </div>
+            	
+      	</div>
+      	
+      	<!--
+      		<div class="row">
+            	 <div class="full">
+                     <img src="images/haita/首页2_07.jpg" alt="#" width="100%"/>
+                  </div>
+            	
+      	</div>
+      
+      <section id="banner_parallax" class="slide_banner1">
+         <div class="container">
+            <div class="row">
+            	 <div class="full">
+                     <div class="slide_pc_img wow fadeInRight" data-wow-delay="1s" data-wow-duration="2s"> <img src="images/haita/首页2_03.jpg" alt="#" /> </div>
+                  </div>
+            	
+            
+               <div class="col-md-6">
+                  <div class="full">
+                     <div class="slide_cont">
+                        <h2>Familiarize Your Creative Application</h2>
+                        <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium..!</p>
+                        <div class="full slide_bt"> <a class="white_bt bt_main" href="index.html">Download</a> </div>
+                     </div>
+                  </div>
+               </div>
+               <div class="col-md-6">
+                  <div class="full">
+                     <div class="slide_pc_img wow fadeInRight" data-wow-delay="1s" data-wow-duration="2s"> <img src="images/haita/首页2_03.jpg" alt="#" /> </div>
+                  </div>
+               </div>
+            
+            </div>
+         </div>
+      </section>
+      -- >
+      <!-- end header -->
+      <!-- section -->
+      
+         <!-- footer bottom  -->
+         <div class="footer_bottom">
+         		<div>
+              <p style="letter-spacing: 16px;font-size: 25px;color: white;">立即行动，开启海獭海外营销之旅</p>
+            	<p style="color: white;letter-spacing: 2px;">请联系你的营销顾问，获取定制报价单，客户案例及行业分析报告</p>
+            	<p style="color: white;font-size: 7px;">Please contact your  overseas marketing BD manager for your customized <br>quotation of prices, client cases and industry data report</p>
+        		</div>
+        			<div style="margin-left: 500px;">
+        			<ul class="nav">
+				        <li style="background-color: white;border-radius:29px;width:160px;">
+				          <a href="http://wpa.qq.com/msgrd?v=3&uin=603544326&site=qq&menu=yes">
+				         		<i class="fa  fa-commenting" style="color: #45c8d3;font-size: 30px;"></i>
+				            <span style="font-size: 18px;color: #45c8d3;letter-spacing: 5px;">在线咨询</span>
+				          </a>
+				      	 </li>
+				      	 <li style="background-color: white;border-radius:29px;width:160px;margin-left: 60px;">
+				          <a href="#" class="webchat">
+				         		<i class="fa fa-comments" style="color: #45c8d3;font-size: 30px;"></i>
+				            <span style="font-size: 18px;color: #45c8d3;letter-spacing: 5px;">微信咨询</span>
+				          </a>
+				      	</li>		      	
+			     	 </div>
+			     	 <br>
+				      	<br>
+         </div>
+        
+      </footer>
+      <!-- end footer -->
+      <!--=========== js section ===========-->
+      <!-- jQuery (necessary for Bootstrap's JavaScript) -->
+      <script src="js/jquery.min.js"></script>
+      <script src="js/popper.min.js"></script>
+      <script src="js/bootstrap.min.js"></script>
+      <!-- wow animation -->
+      <script src="js/wow.js"></script>
+      <!-- custom js -->
+      <script src="js/custom.js"></script>
+
+ 	  	<script src="js/layer/layer.js"></script>
+ 	  	
+<script>
+;!function(){
+
+
+
+//关于
+$('.webchat').on('click', function(){
+	var image="<img src='images/haita/webchat.jpg' width='100%'/>";
+   layer.open({
+		    type: 1,
+		    title: '扫描二维码',
+		    maxmin: false,
+
+		    area: ['430px', '460px'],
+		    content:image,
+		    end: function(){
+		      
+		    }
+		  });
+});
+
+}();
+</script>
+
+      
+   </body>
+</html>
